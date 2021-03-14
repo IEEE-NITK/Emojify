@@ -1,4 +1,4 @@
-# Assingment  Instructions
+# Assignment  Instructions
 
 1. fork and clone this repo
 2. Within the Learning_Assignments folder, make a folder with your name
